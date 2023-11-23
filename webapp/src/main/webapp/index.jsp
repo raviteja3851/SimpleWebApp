@@ -16,7 +16,7 @@ html{
 }
 
 body{
-    font-size: 100%;
+    font-size: 200%;
     font-family: sans-serif;
 }
 
@@ -95,7 +95,7 @@ h1{
                 <li><a href="#about">About Us</a></li>
                 <li><a href="#product">Product</a></li>
                 <li><a href="#pricing">Pricing</a></li>
-                <li><a href="#contact 9100539087">Contact</a></li>
+                <li><a href="#contact">9100539087</a></li>
             </ul>
 		
         </header>
@@ -106,7 +106,7 @@ h1{
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
     <section id="pricing"><h1>This Is Pricing</h1></section>
-    <section id="contact 9100539087"><h1>This Is Contact</h1></section>
+    <section id="contact"><h1>This Is Contact</h1></section>
 
 </body>
 </html>
